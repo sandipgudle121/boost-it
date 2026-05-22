@@ -75,7 +75,7 @@ This project helped me improve my understanding of:
 
 ## 🎥 Gameplay Preview
 
-[![Watch the gameplay]](https://youtu.be/Iw13P2PUamo?si=g0GZmIIqLjYKYftT)
+[[Watch the gameplay]](https://youtu.be/Iw13P2PUamo?si=g0GZmIIqLjYKYftT)
 
 ---
 

@@ -69,7 +69,7 @@ This project helped me improve my understanding of:
 
 ## 📸 Screenshots
 
-[alt text](<Screenshot (79).png>)
+_Add screenshots of your gameplay here_![alt text](<Screenshot (79).png>)
 
 ---
 

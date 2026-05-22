@@ -69,15 +69,13 @@ This project helped me improve my understanding of:
 
 ## 📸 Screenshots
 
-_Add screenshots of your gameplay here_![alt text](<Screenshot (79).png>)
+![alt text](<Screenshot (79).png>)
 
 ---
 
 ## 🎥 Gameplay Preview
 
 [![Watch the gameplay]](https://youtu.be/Iw13P2PUamo?si=g0GZmIIqLjYKYftT)
-
-👉 Click the thumbnail above to watch the gameplay on YouTube.
 
 ---
 
